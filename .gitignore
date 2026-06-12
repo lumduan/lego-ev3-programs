@@ -1,0 +1,24 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Thumbnails
+Thumbs.db
+ehthumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+\#*\#
+.\#*
+
+# Extracted archives (if anyone unzips .lmsp files)
+manifest.json
+scratch.sb3
+icon.svg
+
+# Claude Code local settings
+.claude/
